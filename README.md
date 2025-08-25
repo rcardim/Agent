@@ -1,4 +1,4 @@
-# 🐔 Avian Agent
+# 🐔🕵️‍♀️ Avian Agent
 
 ## 📔Project structure:
 
